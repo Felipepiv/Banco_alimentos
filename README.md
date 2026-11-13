@@ -1,17 +1,19 @@
 <div align="center">
  
 
-**Unicesumar**
-**Engenharia de Software**
+<div align="center">
 
-<br><br><br>
+**Felipe Piva da Silva – 25054343-2**
 
-**Felipe Piva da Silva - 25054343-2 
-Nicollas Azalim - 25013758-2
-Nivea Sofia da Cas - 25004647-2
-Roberto Müller Sanches - 25224962-2
-Yasmin Fernanda de Carvalho - 25061121-2 
-**
+**Nicollas Azalim – 25013758-2**
+
+**Nivea Sofia da Cas – 25004647-2**
+
+**Roberto Müller Sanches – 25224962-2**
+
+**Yasmin Fernanda de Carvalho – 25061121-2**
+
+</div>
 
 <br><br><br><br>
 
