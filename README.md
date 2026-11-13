@@ -1,17 +1,17 @@
 <div align="center">
+ 
 
-Felipe Piva da Silva - 25054343-2 
+**Unicesumar**
+**Engenharia de Software**
+
+<br><br><br>
+
+**Felipe Piva da Silva - 25054343-2 
 Nicollas Azalim - 25013758-2
 Nivea Sofia da Cas - 25004647-2
 Roberto Müller Sanches - 25224962-2
 Yasmin Fernanda de Carvalho - 25061121-2 
-
-**[Unicesumar]**
-**[Engenharia de Software]**
-
-<br><br><br>
-
-**FELIPE [Silva]**
+**
 
 <br><br><br><br>
 
