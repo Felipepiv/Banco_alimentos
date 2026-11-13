@@ -1,7 +1,6 @@
 <div align="center">
  
-
-<div align="center">
+ <div align="center">
 
 **Felipe Piva da Silva – 25054343-2**
 
@@ -14,6 +13,12 @@
 **Yasmin Fernanda de Carvalho – 25061121-2**
 
 </div>
+
+**Unicesumar**
+**Engenharia de Software**
+
+<br><br><br>
+
 
 <br><br><br><br>
 
